@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '31762'
     url: http://www.gutenberg.org/2009/agents/31762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26051#Bolshevism--A-Curse--amp--Danger-to-the-Workers
 gutenberg_issued: '2008-07-14'
 gutenberg_type: Text
 identifiers:
